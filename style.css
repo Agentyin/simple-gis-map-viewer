@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+}
+
+#map {
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
